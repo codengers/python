@@ -1,4 +1,4 @@
-'''This is used to back up the files. This program is for only windows'''
+'''This is used to back up the files. This program is for only windows.'''
 import os
 import time
 source = ['C:\\Users\\Atika\\Downloads\\pdf\*.pdf']
