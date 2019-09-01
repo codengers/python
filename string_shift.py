@@ -1,5 +1,5 @@
 """
-string shift by 2 two steps
+string shift by two steps
 Interview question
 provide string and integer times to shift
 """
